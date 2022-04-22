@@ -26,3 +26,4 @@ python ./finetune.py \
   --date 2_21 \
   --tune_plm \
 ```
+* Part of the experiment results have been shown in `experiments_results_plot.ipynb` and `knowledgeable_verbalizer_label_words_plot0.ipynb`
