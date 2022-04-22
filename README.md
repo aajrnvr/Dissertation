@@ -1,14 +1,14 @@
 # Dissertation
 ## This is the code for my dissertation: Clinical-Prompt: a systematic analysis of prompt learning to inform clinical decision making.
 
-The pre-trained model is downloaded from huggingface website: 
+* The pre-trained model is downloaded from huggingface website: 
 ```python 
 Tsubasaz/clinical-pubmed-bert-base-512
 ```
 
-To rum prompt learning methods, please define parameters and run the pipeline file `prompt_pipeline.py`
+* To rum prompt learning methods, please define parameters and run the pipeline file `prompt_pipeline.py`
 
-To run baseline finetune method, please run finetune.sh file:
+* To run baseline finetune method, please run finetune.sh file:
 ```python
 python ./finetune.py \
   --task_name readmission \
