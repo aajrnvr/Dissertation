@@ -1,5 +1,5 @@
 # Dissertation
-This is the code for my dissertation: Clinical-Prompt: a systematic analysis of prompt learning to inform clinical decision making.
+## This is the code for my dissertation: Clinical-Prompt: a systematic analysis of prompt learning to inform clinical decision making.
 
 The pre-trained model is downloaded from huggingface website: 
 ```python 
