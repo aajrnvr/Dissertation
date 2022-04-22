@@ -1,0 +1,1 @@
+{"placeholder": "text_a"} predict readmission: {"mask"} bad health condition means yes readmission, recovery means no readmission.
